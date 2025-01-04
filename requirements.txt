@@ -1,0 +1,9 @@
+# Projeto PySpark Big Data
+
+Este projeto foi desenvolvido utilizando **Google Colab** para análise e processamento de dados com **PySpark**.
+
+## Estrutura do Repositório
+
+- `colab_notebooks/`: Contém os notebooks do Google Colab utilizados nas práticas.
+
+
